@@ -1,0 +1,44 @@
+body{background-color: none;}
+#cuadro{
+	width: 50%;
+	background-color: orange;
+	border-style: solid;
+	border-color: red;
+	margin: auto;
+	border-radius: 10%;
+	padding-left: 50px;
+	font-size: 20px;
+	height: 600px; 
+}
+
+h1{
+	color: yellow;
+	padding-right: 50px;
+	text-align: center;
+}
+
+input[type=text]{
+	background-color: orange;
+	border:none;
+	width: 50%
+	border-botton: 2px solid red;
+	padding: 12px 20px;
+}
+input[type=text]{
+	background-color: orange;
+	border:none;
+	width: 50%
+	border-botton: 2px solid red;
+	padding: 12px 20px;
+}
+#boton{
+	color: red;
+	background-color: black;
+	width: 100px;
+	height: 40px;
+	font-size: 20px; 
+}
+
+#centraboton{
+	text-align: center;
+	padding-right: 10px; }
